@@ -1,0 +1,14 @@
+{
+  "name": "browser-view",
+  "version": "1.0.0",
+  "description": "Experimenting BrowserView",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.7.10"
+  }
+}
